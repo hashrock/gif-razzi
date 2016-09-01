@@ -1,0 +1,16 @@
+{
+  "name": "paparazzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^2.6.1",
+    "nightmare-animated-gif": "0.0.3"
+  }
+}
